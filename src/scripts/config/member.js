@@ -200,7 +200,7 @@ export default [
     id: "Kirac0on",
     intro: "23级 / Web / Brûle en silence dans la nuit.",
     grade: "23",
-    avatar: require("../../images/avatar/kirac0on.png"),
+    avatar: require("../../images/avatar/kirac0on.jpg"),
     url: "https://kirac0on.com/"
   },
   {
